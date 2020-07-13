@@ -5,8 +5,11 @@ Experienced Site Reliability Engineer building [Kubernetes](https://github.com/k
 ## My values
 
 💐 Liberal – everyone are bourn free with equal human rights
+
 🌱 Open minded and pragmatic – finding the best solution
+
 🙌 Honest - I strive to be who I am and living up to my values
+
 💬 Open and transparent collaboration often through code
 
 <!--
